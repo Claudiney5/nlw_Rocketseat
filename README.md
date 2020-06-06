@@ -1,9 +1,9 @@
 # nlw_Rocketseat
 Semana de Treinamento Fullstack da RocketSeat
 
-<img src="img/img1.jpg" width="400">
+<img src="img/img1.jpg" width="640">
 
-Cinco dias de treinamento intenso em HTML, CSS, JavaScript, React, ReactNative, NodeJS,...
+Cinco dias de treinamento intenso em HTML, CSS, JavaScript, NodeJS,...
 
 Primeiro dia:
 HTML e muito CSS. Dicas sensacionais!
